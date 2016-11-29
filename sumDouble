@@ -1,0 +1,7 @@
+def sum_double(a, b):
+  numb = a + b
+  
+  if a == b:
+      numb = numb * 2
+      
+  return numb
